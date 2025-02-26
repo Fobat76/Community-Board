@@ -22,7 +22,7 @@ GIF created with ScreenToGif
 ![](https://github.com/Fobat76/Community-Board/blob/main/community-board.gif)
 ## Notes
 - Overall really fun 
-Describe any challenges encountered while building the app.
+### Describe any challenges encountered while building the app.
 - CSS is hard and confusing 
 ## License
 
