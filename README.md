@@ -19,12 +19,11 @@ The following **required** functionality is completed:
 * [x] Display at least 10 unique resources or events in a responsive card format
 
 GIF created with ScreenToGif
-
+![](https://github.com/Fobat76/Community-Board/blob/main/community-board.gif)
 ## Notes
-- Overall really fun and really good refresher
+- Overall really fun 
 Describe any challenges encountered while building the app.
-- Syntax challenges 
-- New unfamilar DOM functions 
+- CSS is hard and confusing 
 ## License
 
     Copyright [2025] [Devin Chen]
