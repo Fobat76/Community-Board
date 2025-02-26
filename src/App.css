@@ -1,0 +1,35 @@
+.Header{
+  text-align: center;
+}
+
+.resources {
+  text-align: center; /* Center the content */
+  margin: 20px; /* Add some margin around the container */
+  border: 5px solid #ffffff; /* Border color */
+  border-radius: 10px; /* Rounded corners */
+  padding: 10px; /* Padding inside the container */
+  display: inline-block; /* Allows the container to fit around the image */
+  transition: transform 0.3s ease; /* Transition for hover effect */
+  background-color: #696969;
+}
+
+.resources img {
+  width: 200px; /* Fixed width for all images */
+  height: 200px; /* Fixed height for uniform size */
+  object-fit: cover; /* Ensures images fill the area while maintaining aspect ratio */
+  border-radius: 10px; /* Optional: Rounded corners */
+}
+
+.resources h1 {
+  width: 200px; /* Same width as the image */
+  word-wrap: break-word; /* Break long words */
+  overflow-wrap: break-word; /* Ensures wrapping */
+  text-align: center; /* Center the text */
+  font-size: 16px; /* Adjust font size */
+  margin: 5px auto; /* Add spacing */
+}
+
+
+.resources:hover {
+  transform: scale(1.05); /* Scale up on hover */
+}
